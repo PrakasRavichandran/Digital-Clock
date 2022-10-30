@@ -11,4 +11,4 @@
 
 > Project Screenshot
 
- ![Digital Clock](./DC.png "Digital Clock")
+ ![Digital Clock](./preview.png "Digital Clock")
